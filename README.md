@@ -74,5 +74,5 @@ https://drive.google.com/file/d/1WWSz_WSvGl6Ix94ERIFuU_GvSGwkMnzH/view
 
   ## Questions?
   ### Reach me here: 
-  [BrooklynnStevenson](https://github.com/Brooksteven)  
+  [Brooklynn Stevenson](https://github.com/Brooksteven)  
 Brooksteven54@gmail.com
