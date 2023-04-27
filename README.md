@@ -55,7 +55,8 @@
   - Need to be in the main folder in terminal when running the command.
 
 Video Demo of App in Use:
-![video](https://drive.google.com/file/d/1WWSz_WSvGl6Ix94ERIFuU_GvSGwkMnzH/view)
+![Employee-Tracker - Demo](https://drive.google.com/file/d/1WWSz_WSvGl6Ix94ERIFuU_GvSGwkMnzH/view)
+
 
 ## Technologies
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
