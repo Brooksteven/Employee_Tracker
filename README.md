@@ -54,8 +54,7 @@
 
   - Need to be in the main folder in terminal when running the command.
 
-Video Demo of App in Use:
-![Employee-Tracker - Demo]https://drive.google.com/file/d/1WWSz_WSvGl6Ix94ERIFuU_GvSGwkMnzH/view
+Video Demo of App in Use: https://drive.google.com/file/d/1WWSz_WSvGl6Ix94ERIFuU_GvSGwkMnzH/view
 
 
 ## Technologies
