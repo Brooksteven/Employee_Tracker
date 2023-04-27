@@ -55,7 +55,7 @@
   - Need to be in the main folder in terminal when running the command.
 
 Video Demo of App in Use:
-https://drive.google.com/file/d/1WWSz_WSvGl6Ix94ERIFuU_GvSGwkMnzH/view
+(https://drive.google.com/file/d/1WWSz_WSvGl6Ix94ERIFuU_GvSGwkMnzH/view)
 
 
 ## Technologies
@@ -75,4 +75,4 @@ https://drive.google.com/file/d/1WWSz_WSvGl6Ix94ERIFuU_GvSGwkMnzH/view
   ## Questions?
   ### Reach me here: 
   [Brooklynn Stevenson](https://github.com/Brooksteven)  
-Brooksteven54@gmail.com
+Brooksteven580@gmail.com
